@@ -1,0 +1,11 @@
+pandas==2.3.1
+pyarrow==21.0.0
+torch==2.7.1
+transformers==4.53.2
+peft==0.16.0
+accelerate==1.9.0
+bitsandbytes==0.46.1; platform_system == "Linux"
+rouge-score==0.1.2
+wandb==0.21.1
+matplotlib==3.9.4
+seaborn==0.13.2

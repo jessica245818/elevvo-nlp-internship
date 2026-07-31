@@ -10,6 +10,7 @@ Completed projects:
 6. **Task 6 — Question Answering:** see [`task6_question_answering/`](task6_question_answering/) for transformer-based answer span extraction on SQuAD v1.1.
 7. **Task 7 — Text Summarization:** see [`task7_text_summarization/`](task7_text_summarization/) for DistilBART abstractive summarization and a TextRank baseline on CNN/DailyMail.
 8. **Task 8 — RAG Talent Search:** see [`task8_rag_talent_search/`](task8_rag_talent_search/) for FAISS resume retrieval, local LLM candidate explanations, bias checks, and a Streamlit recruiter UI.
+9. **Task 9 — Efficient LLM Fine-Tuning:** see [`task9_peft_qlora/`](task9_peft_qlora/) for single-GPU QLoRA dialogue summarization with before/after ROUGE evaluation.
 
 ## Task 1: Sentiment Analysis
 
