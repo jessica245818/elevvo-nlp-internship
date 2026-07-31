@@ -1,0 +1,19 @@
+{
+  "DistilBART": {
+    "rouge1": 43.253443266939236,
+    "rouge2": 21.896240226992713,
+    "rougeL": 30.73790926107756,
+    "seconds": 226.103533459,
+    "articles_per_second": 0.22113763210634052,
+    "model_id": "sshleifer/distilbart-cnn-6-6",
+    "device": "mps"
+  },
+  "TextRank": {
+    "rouge1": 33.97148119835323,
+    "rouge2": 14.176636151645878,
+    "rougeL": 22.754283043101008,
+    "seconds": 0.26230129200001784,
+    "articles_per_second": 190.6204869169939
+  },
+  "evaluation_articles": 50
+}
