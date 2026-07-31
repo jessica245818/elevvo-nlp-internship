@@ -27,4 +27,3 @@ def clean_text(text: str) -> str:
         token for token in SPACE_RE.split(text.strip())
         if token and token not in STOP_WORDS
     )
-
