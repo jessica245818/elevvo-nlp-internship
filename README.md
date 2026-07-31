@@ -4,6 +4,7 @@ Completed projects:
 
 1. **Task 1 — Sentiment Analysis:** this root project classifies IMDb reviews as positive or negative.
 2. **Task 2 — News Category Classification:** see [`task2_news_classification/`](task2_news_classification/) for AG News multiclass classification.
+3. **Task 3 — Fake News Detection:** see [`task3_fake_news_detection/`](task3_fake_news_detection/) for binary fake-versus-real article classification.
 
 ## Task 1: Sentiment Analysis
 
