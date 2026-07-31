@@ -1,0 +1,19 @@
+{
+  "dataset": {
+    "articles": 2225,
+    "vocabulary_size": 6071,
+    "topics": 5
+  },
+  "lda": {
+    "perplexity": 1606.5244211122495,
+    "topic_diversity": 0.8166666666666667,
+    "coherence_c_v": 0.561589165939028,
+    "category_nmi": 0.7917860345337507
+  },
+  "nmf": {
+    "reconstruction_error": 45.21285135088516,
+    "topic_diversity": 0.9333333333333333,
+    "coherence_c_v": 0.7317172203665684,
+    "category_nmi": 0.8201917852408613
+  }
+}

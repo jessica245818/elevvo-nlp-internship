@@ -6,6 +6,7 @@ Completed projects:
 2. **Task 2 — News Category Classification:** see [`task2_news_classification/`](task2_news_classification/) for AG News multiclass classification.
 3. **Task 3 — Fake News Detection:** see [`task3_fake_news_detection/`](task3_fake_news_detection/) for binary fake-versus-real article classification.
 4. **Task 4 — Named Entity Recognition:** see [`task4_named_entity_recognition/`](task4_named_entity_recognition/) for rule-based and spaCy NER on CoNLL-2003.
+5. **Task 5 — Topic Modeling:** see [`task5_topic_modeling/`](task5_topic_modeling/) for LDA and NMF topic discovery on BBC News.
 
 ## Task 1: Sentiment Analysis
 
