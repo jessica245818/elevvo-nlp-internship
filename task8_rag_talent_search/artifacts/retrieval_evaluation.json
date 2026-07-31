@@ -1,0 +1,108 @@
+{
+  "queries": 10,
+  "top_k": 3,
+  "hit_rate_at_k": 1.0,
+  "mean_reciprocal_rank": 0.95,
+  "details": [
+    {
+      "skill": "python",
+      "hit_at_k": true,
+      "first_relevant_rank": 2,
+      "candidate_ids": [
+        "Candidate-0301",
+        "Candidate-0564",
+        "Candidate-0894"
+      ]
+    },
+    {
+      "skill": "sql",
+      "hit_at_k": true,
+      "first_relevant_rank": 1,
+      "candidate_ids": [
+        "Candidate-0486",
+        "Candidate-0046",
+        "Candidate-0402"
+      ]
+    },
+    {
+      "skill": "excel",
+      "hit_at_k": true,
+      "first_relevant_rank": 1,
+      "candidate_ids": [
+        "Candidate-0488",
+        "Candidate-0301",
+        "Candidate-0649"
+      ]
+    },
+    {
+      "skill": "java",
+      "hit_at_k": true,
+      "first_relevant_rank": 1,
+      "candidate_ids": [
+        "Candidate-0694",
+        "Candidate-0781",
+        "Candidate-0363"
+      ]
+    },
+    {
+      "skill": "accounting",
+      "hit_at_k": true,
+      "first_relevant_rank": 1,
+      "candidate_ids": [
+        "Candidate-0971",
+        "Candidate-0325",
+        "Candidate-0671"
+      ]
+    },
+    {
+      "skill": "sales",
+      "hit_at_k": true,
+      "first_relevant_rank": 1,
+      "candidate_ids": [
+        "Candidate-0354",
+        "Candidate-0121",
+        "Candidate-0812"
+      ]
+    },
+    {
+      "skill": "marketing",
+      "hit_at_k": true,
+      "first_relevant_rank": 1,
+      "candidate_ids": [
+        "Candidate-0309",
+        "Candidate-0885",
+        "Candidate-0014"
+      ]
+    },
+    {
+      "skill": "project management",
+      "hit_at_k": true,
+      "first_relevant_rank": 1,
+      "candidate_ids": [
+        "Candidate-0921",
+        "Candidate-0109",
+        "Candidate-0126"
+      ]
+    },
+    {
+      "skill": "customer service",
+      "hit_at_k": true,
+      "first_relevant_rank": 1,
+      "candidate_ids": [
+        "Candidate-0714",
+        "Candidate-0650",
+        "Candidate-0872"
+      ]
+    },
+    {
+      "skill": "leadership",
+      "hit_at_k": true,
+      "first_relevant_rank": 1,
+      "candidate_ids": [
+        "Candidate-0984",
+        "Candidate-0582",
+        "Candidate-0658"
+      ]
+    }
+  ]
+}

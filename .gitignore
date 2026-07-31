@@ -10,6 +10,9 @@ task4_named_entity_recognition/data/
 task5_topic_modeling/data/
 task6_question_answering/data/
 task7_text_summarization/data/
+task8_rag_talent_search/data/
+task8_rag_talent_search/artifacts/index.faiss
+task8_rag_talent_search/artifacts/resume_metadata.json
 __pycache__/
 *.py[cod]
 .DS_Store
