@@ -1,0 +1,20 @@
+{
+  "DistilBERT": {
+    "model_id": "distilbert/distilbert-base-cased-distilled-squad",
+    "examples": 500,
+    "exact_match": 78.4,
+    "f1": 86.35053165995154,
+    "seconds": 44.167365542,
+    "examples_per_second": 11.320575584806747,
+    "device": "mps"
+  },
+  "TinyRoBERTa": {
+    "model_id": "deepset/tinyroberta-squad2",
+    "examples": 500,
+    "exact_match": 83.4,
+    "f1": 90.05311514572388,
+    "seconds": 60.860618125,
+    "examples_per_second": 8.215493292773717,
+    "device": "mps"
+  }
+}
