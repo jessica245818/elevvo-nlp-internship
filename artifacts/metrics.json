@@ -1,0 +1,14 @@
+{
+  "logistic_regression": {
+    "accuracy": 0.88616,
+    "precision": 0.8825487398953875,
+    "recall": 0.89088,
+    "f1": 0.8866948005414443
+  },
+  "naive_bayes": {
+    "accuracy": 0.85808,
+    "precision": 0.8756924626489844,
+    "recall": 0.83464,
+    "f1": 0.8546735479642827
+  }
+}
