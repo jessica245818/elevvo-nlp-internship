@@ -9,6 +9,7 @@ Completed projects:
 5. **Task 5 — Topic Modeling:** see [`task5_topic_modeling/`](task5_topic_modeling/) for LDA and NMF topic discovery on BBC News.
 6. **Task 6 — Question Answering:** see [`task6_question_answering/`](task6_question_answering/) for transformer-based answer span extraction on SQuAD v1.1.
 7. **Task 7 — Text Summarization:** see [`task7_text_summarization/`](task7_text_summarization/) for DistilBART abstractive summarization and a TextRank baseline on CNN/DailyMail.
+8. **Task 8 — RAG Talent Search:** see [`task8_rag_talent_search/`](task8_rag_talent_search/) for FAISS resume retrieval, local LLM candidate explanations, bias checks, and a Streamlit recruiter UI.
 
 ## Task 1: Sentiment Analysis
 
