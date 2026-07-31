@@ -1,0 +1,27 @@
+sentence_id,model,sentence,entity,category
+1,en_core_web_md,"SOCCER - JAPAN GET LUCKY WIN , CHINA IN SURPRISE DEFEAT .",SOCCER - JAPAN,ORG
+1,en_core_web_md,"SOCCER - JAPAN GET LUCKY WIN , CHINA IN SURPRISE DEFEAT .",SURPRISE,LOC
+2,en_core_web_md,Nadim Ladki,Nadim Ladki,PER
+3,en_core_web_md,"AL-AIN , United Arab Emirates 1996-12-06",United Arab Emirates,LOC
+4,en_core_web_md,Japan began the defence of their Asian Cup title with a lucky 2-1 win against Syria in a Group C championship match on Friday .,Japan,LOC
+4,en_core_web_md,Japan began the defence of their Asian Cup title with a lucky 2-1 win against Syria in a Group C championship match on Friday .,Asian Cup,MISC
+4,en_core_web_md,Japan began the defence of their Asian Cup title with a lucky 2-1 win against Syria in a Group C championship match on Friday .,Syria,LOC
+4,en_core_web_md,Japan began the defence of their Asian Cup title with a lucky 2-1 win against Syria in a Group C championship match on Friday .,Group C,ORG
+5,en_core_web_md,"But China saw their luck desert them in the second match of the group , crashing to a surprise 2-0 defeat to newcomers Uzbekistan .",China,LOC
+5,en_core_web_md,"But China saw their luck desert them in the second match of the group , crashing to a surprise 2-0 defeat to newcomers Uzbekistan .",Uzbekistan,LOC
+6,en_core_web_md,China controlled most of the match and saw several chances missed until the 78th minute when Uzbek striker Igor Shkvyrin took advantage of a misdirected defensive header to lob the ball over the advancing Chinese keeper and into an empty net .,China,LOC
+6,en_core_web_md,China controlled most of the match and saw several chances missed until the 78th minute when Uzbek striker Igor Shkvyrin took advantage of a misdirected defensive header to lob the ball over the advancing Chinese keeper and into an empty net .,Uzbek,MISC
+6,en_core_web_md,China controlled most of the match and saw several chances missed until the 78th minute when Uzbek striker Igor Shkvyrin took advantage of a misdirected defensive header to lob the ball over the advancing Chinese keeper and into an empty net .,Igor Shkvyrin,PER
+6,en_core_web_md,China controlled most of the match and saw several chances missed until the 78th minute when Uzbek striker Igor Shkvyrin took advantage of a misdirected defensive header to lob the ball over the advancing Chinese keeper and into an empty net .,Chinese,MISC
+7,en_core_web_md,"Oleg Shatskiku made sure of the win in injury time , hitting an unstoppable left foot shot from just outside the area .",Oleg Shatskiku,PER
+8,en_core_web_md,The former Soviet republic was playing in an Asian Cup finals tie for the first time .,Soviet republic,LOC
+8,en_core_web_md,The former Soviet republic was playing in an Asian Cup finals tie for the first time .,an Asian Cup,MISC
+9,en_core_web_md,"Despite winning the Asian Games title two years ago , Uzbekistan are in the finals as outsiders .",Asian Games,ORG
+9,en_core_web_md,"Despite winning the Asian Games title two years ago , Uzbekistan are in the finals as outsiders .",Uzbekistan,LOC
+10,en_core_web_md,Two goals from defensive errors in the last six minutes allowed Japan to come from behind and collect all three points from their opening meeting against Syria .,Japan,LOC
+10,en_core_web_md,Two goals from defensive errors in the last six minutes allowed Japan to come from behind and collect all three points from their opening meeting against Syria .,Syria,LOC
+11,en_core_web_md,"Takuya Takagi scored the winner in the 88th minute , rising to head a Hiroshige Yanagimoto cross towards the Syrian goal which goalkeeper Salem Bitar appeared to have covered but then allowed to slip into the net .",Takuya Takagi,PER
+11,en_core_web_md,"Takuya Takagi scored the winner in the 88th minute , rising to head a Hiroshige Yanagimoto cross towards the Syrian goal which goalkeeper Salem Bitar appeared to have covered but then allowed to slip into the net .",Hiroshige Yanagimoto,PER
+11,en_core_web_md,"Takuya Takagi scored the winner in the 88th minute , rising to head a Hiroshige Yanagimoto cross towards the Syrian goal which goalkeeper Salem Bitar appeared to have covered but then allowed to slip into the net .",Syrian,MISC
+11,en_core_web_md,"Takuya Takagi scored the winner in the 88th minute , rising to head a Hiroshige Yanagimoto cross towards the Syrian goal which goalkeeper Salem Bitar appeared to have covered but then allowed to slip into the net .",Salem Bitar,PER
+12,en_core_web_md,It was the second costly blunder by Syria in four minutes .,Syria,LOC

@@ -6,6 +6,7 @@ task2_news_classification/data/
 task2_news_classification/artifacts/*.joblib
 task3_fake_news_detection/data/
 task3_fake_news_detection/artifacts/*.joblib
+task4_named_entity_recognition/data/
 __pycache__/
 *.py[cod]
 .DS_Store

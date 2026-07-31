@@ -1,0 +1,7 @@
+pandas==2.3.1
+pyarrow==21.0.0
+spacy==3.8.7
+matplotlib==3.9.4
+seaborn==0.13.2
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.8.0/en_core_web_sm-3.8.0-py3-none-any.whl
+https://github.com/explosion/spacy-models/releases/download/en_core_web_md-3.8.0/en_core_web_md-3.8.0-py3-none-any.whl
