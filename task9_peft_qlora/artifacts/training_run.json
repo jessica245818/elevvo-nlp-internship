@@ -1,0 +1,10 @@
+{
+  "base_model": "google/flan-t5-small",
+  "method": "LoRA fallback",
+  "train_examples": 512,
+  "validation_examples": 100,
+  "epochs": 2.0,
+  "trainable_parameters": 2555904,
+  "total_parameters": 79517056,
+  "train_loss": 1.9029304459691048
+}

@@ -13,6 +13,10 @@ task7_text_summarization/data/
 task8_rag_talent_search/data/
 task8_rag_talent_search/artifacts/index.faiss
 task8_rag_talent_search/artifacts/resume_metadata.json
+task9_peft_qlora/data/
+task9_peft_qlora/artifacts/adapter/
+task9_peft_qlora/artifacts/merged_model/
+task9_peft_qlora/artifacts/checkpoints/
 __pycache__/
 *.py[cod]
 .DS_Store
