@@ -1,4 +1,11 @@
-# Elevvo NLP Internship — Task 1: Sentiment Analysis
+# Elevvo NLP Internship Projects
+
+Completed projects:
+
+1. **Task 1 — Sentiment Analysis:** this root project classifies IMDb reviews as positive or negative.
+2. **Task 2 — News Category Classification:** see [`task2_news_classification/`](task2_news_classification/) for AG News multiclass classification.
+
+## Task 1: Sentiment Analysis
 
 Binary sentiment classification of IMDb reviews using TF-IDF features. The project trains a logistic regression baseline, compares it with Multinomial Naive Bayes, evaluates both models, and visualizes frequent and predictive positive and negative terms.
 
