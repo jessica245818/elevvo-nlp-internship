@@ -8,6 +8,7 @@ Completed projects:
 4. **Task 4 — Named Entity Recognition:** see [`task4_named_entity_recognition/`](task4_named_entity_recognition/) for rule-based and spaCy NER on CoNLL-2003.
 5. **Task 5 — Topic Modeling:** see [`task5_topic_modeling/`](task5_topic_modeling/) for LDA and NMF topic discovery on BBC News.
 6. **Task 6 — Question Answering:** see [`task6_question_answering/`](task6_question_answering/) for transformer-based answer span extraction on SQuAD v1.1.
+7. **Task 7 — Text Summarization:** see [`task7_text_summarization/`](task7_text_summarization/) for DistilBART abstractive summarization and a TextRank baseline on CNN/DailyMail.
 
 ## Task 1: Sentiment Analysis
 
