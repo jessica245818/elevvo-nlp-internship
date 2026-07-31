@@ -2,6 +2,8 @@
 data/
 artifacts/*.joblib
 tmp/
+task2_news_classification/data/
+task2_news_classification/artifacts/*.joblib
 __pycache__/
 *.py[cod]
 .DS_Store
